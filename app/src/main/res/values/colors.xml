@@ -5,4 +5,5 @@
     <color name="grey">#22DDDDDD</color>
     <color name="textGrey">#FFAAAAAA</color>
     <color name="actionBar">#FF242424</color>
+    <color name="btnColor">#FF00FFFF</color>
 </resources>
